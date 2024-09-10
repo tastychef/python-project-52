@@ -1,0 +1,23 @@
+[
+  {
+    "model": "statuses.taskstatus",
+    "pk": 1,
+    "fields": {
+      "name": "new"
+    }
+  },
+  {
+    "model": "statuses.taskstatus",
+    "pk": 2,
+    "fields": {
+      "name": "in progress"
+    }
+  },
+  {
+    "model": "statuses.taskstatus",
+    "pk": 3,
+    "fields": {
+      "name": "completed"
+    }
+  }
+]
